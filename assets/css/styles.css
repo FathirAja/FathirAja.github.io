@@ -291,7 +291,7 @@ img {
   z-index: var(--z-back);
 }
 .skills__html {
-  width: 100%;
+  width: 50%;
 }
 .skills__css {
   width: 100%;
